@@ -12,7 +12,7 @@ This project will be able to predict if a given passenger will survival the Tita
 
 
 |FEATURE | DESCRIPTION    |
--------------------------- 
+|---------|---------------|
 |Survived | Survival      |
 |Pclass   | Ticket Class  |
 |Name     |Name of Passenger|
@@ -24,3 +24,4 @@ This project will be able to predict if a given passenger will survival the Tita
 |Fare     | Passenger Fare                  |
 |Cabin    | Cabin Number                    |
 |Embarked | Port of Embarkation             |
+| ---------| -------------------------------|
