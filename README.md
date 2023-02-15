@@ -36,7 +36,11 @@ This project will be able to predict if a given passenger will survive the Titan
 
 We employed the use of Machine Learning models for model training and prediction.
 1. Random Forest Classifier.
-2. LogisticRegression. 
+2. Logistic Regression. 
+
+# Results
+The Random Forest Classifier, suggest that our fictional passenger (Joe Parker) would not have survived the Titanic
+While, Logistics Regression results suggests that (Joe Parker) would have survived the Titanic.
 
 
 # [Note]
