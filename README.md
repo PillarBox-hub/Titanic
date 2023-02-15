@@ -3,7 +3,7 @@
 using machine learning to predict on the famous titanic csv
 
 
-This project will be able to predict if a given passenger will survival the Titanic disaster (for us, we are fictioning).
+This project will be able to predict if a given passenger will survive the Titanic disaster (for us, we are fictioning).
 
 
 
@@ -24,4 +24,4 @@ This project will be able to predict if a given passenger will survival the Tita
 |Fare     | Passenger Fare                  |
 |Cabin    | Cabin Number                    |
 |Embarked | Port of Embarkation             |
-| ---------| -------------------------------|
+
